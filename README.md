@@ -1,6 +1,7 @@
 # Azure Functions C# Scenarios
 
-This is a collection of C# function business scenarios on Azure Functions For a comprehensive development and debugging experience, use the Azure Functions Core Tools or VS Code extension.
+This is a collection of C# function business scenarios on Azure Functions For a comprehensive development and debugging experience, use the [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python) or [VS Code extension](https://code.visualstudio.com/tutorials/functions-extension/getting-started).
+
 
 ### Scenarios
 | Scenario | Description | Trigger | In Bindings | Out Bindings
