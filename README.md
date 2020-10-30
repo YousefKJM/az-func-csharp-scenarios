@@ -6,8 +6,8 @@ This is a collection of C# function business scenarios on Azure Functions For a 
 | Scenario | Description | Trigger | In Bindings | Out Bindings
 | ------------- | ------------- | ------------- | ----------- | ----------- |
 | [blob-trigger-log](functions/blob-trigger-log) | C# function that writes a log when a blob is added or updated in the samples-workitems container. | Blob | NONE | NONE |
-<!-- | [queue-trigger-blob-in-binding](functions/queue-trigger-blob-in-binding) | C# function that uses a queue trigger and an input blob binding. The queue message contains the name of the blob, and the function logs the size of the blob. | Queue | Blob Storage | NONE |
-| [blob-trigger-two-blob-out-binding](functions/queue-trigger-blob-in-binding) |  C# function that uses a blob trigger and two output blob bindings. The function is triggered by the creation of an image blob in the sample-images container. It creates small and medium size copies of the image blob. | Blob | NONE | Blob Storage | -->
+| [queue-trigger-blob-in-binding](functions/queue-trigger-blob-in-binding) | C# function that uses a queue trigger and an input blob binding. The queue message contains the name of the blob, and the function logs the size of the blob. | Queue | Blob Storage | NONE |
+<!-- | [blob-trigger-two-blob-out-binding](functions/queue-trigger-blob-in-binding) |  C# function that uses a blob trigger and two output blob bindings. The function is triggered by the creation of an image blob in the sample-images container. It creates small and medium size copies of the image blob. | Blob | NONE | Blob Storage | -->
 
 
 ### Documents
