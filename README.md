@@ -15,4 +15,4 @@ This is a collection of C# function business scenarios on Azure Functions. For a
 * [Work with Azure Functions Proxies](https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies)
 
 ### Goal
-To implement scenarios as many as I can. 
+> To implement scenarios as many as I can. 
