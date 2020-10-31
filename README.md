@@ -2,7 +2,6 @@
 
 This is a collection of C# function business scenarios on Azure Functions. For a comprehensive development and debugging experience, use the [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python) or [VS Code extension](https://code.visualstudio.com/tutorials/functions-extension/getting-started).
 
-
 ### Scenarios
 | Scenario | Description | Trigger | In Bindings | Out Bindings
 | ------------- | ------------- | ------------- | ----------- | ----------- |
@@ -14,5 +13,6 @@ This is a collection of C# function business scenarios on Azure Functions. For a
 * [Azure Functions C# developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)
 * [Zip push deployment for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
 * [Work with Azure Functions Proxies](https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies)
-* [Create a function triggered by Azure Blob storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
-* [Create a function triggered by Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function)
+
+### Goal
+To implement scenarios as many as I can. 
